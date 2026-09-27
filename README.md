@@ -42,8 +42,7 @@ Provides a web-based interface for viewing SBOM components, vulnerabilities, ris
 Planned integration with CI/CD pipelines for automated security checks during software development and deployment.
 
 ## Proposed Architecture
-
-![SBOMGuard Architecture](diagrams/proposed-architecture.png)
+ ![SBOMGuard Architecture](SBOMGuard_Proposed_Architecture.png)
 
 ## Planned Technology Stack
 
